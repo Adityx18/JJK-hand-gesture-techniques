@@ -36,9 +36,6 @@ You need a modern web browser (Chrome, Edge, Firefox) and a webcam.
 2.  **Run the project**
     **VS Code:** Install the "Live Server" extension, right-click `index.html`, and select "Open with Live Server".
 
-## Note 
-
-This project was built and powered by **Google Gemini 3**.
 =======
 # JJK-hand-gesture-techniques
 It is a real-time cursed technique visualizer based on the popular anime series, Jujutsu Kaisen 呪術廻戦. It combines the mediapipe library with three.js to recreate cursed techniques from Jujutsu Kaisen.
