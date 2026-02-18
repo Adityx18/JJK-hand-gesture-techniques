@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Description
 SAT0RU is a cursed technique visualizer based on the popular anime series, Jujutsu Kaisen 呪術廻戦. It combines the mediapipe library with three.js to recreate cursed techniques from Jujutsu Kaisen. Powered by Gemini 3.
 
@@ -38,3 +39,7 @@ You need a modern web browser (Chrome, Edge, Firefox) and a webcam.
 ## Note 
 
 This project was built and powered by **Google Gemini 3**.
+=======
+# JJK-hand-gesture-techniques
+It is a real-time cursed technique visualizer based on the popular anime series, Jujutsu Kaisen 呪術廻戦. It combines the mediapipe library with three.js to recreate cursed techniques from Jujutsu Kaisen.
+>>>>>>> e2688693e3b6af456ef46d673012dc3ac33da733
